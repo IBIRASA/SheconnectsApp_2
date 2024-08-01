@@ -7,6 +7,9 @@
     "start": "node server/index.js",
     "dev": "nodemon index.js"
   },
+  "engines": {
+    "node": "20.x"
+  },
   "keywords": [],
   "author": "",
   "license": "MIT",
