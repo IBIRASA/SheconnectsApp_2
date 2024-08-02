@@ -84,7 +84,7 @@ const LandingPage = () => {
         </div>
         <div className="relative z-10 flex flex-col items-start justify-center h-full ml-64 space-y-4 ">
       <h1 className="text-white text-6xl font-bold leading-normal" data-aos="fade-left">
-        ELCOME TO SHECONNECTS <br />
+        WELCOME TO SHECONNECTS <br />
         PLATFORM
       </h1>
       <div className="flex items-center text-white font-bold text-xl mb-32" data-aos="fade-left">
