@@ -100,7 +100,7 @@ const LandingPage = () => {
     </div>
       </div>
 
-      {/* About section */}
+
       <div ref={aboutRef}  id='About' className="relative h-1/2 bg-white flex items-center px-60">
         <div className="flex-1 p-8">
           <div data-aos="fade-left">
@@ -115,7 +115,7 @@ const LandingPage = () => {
         </div>
       </div>
 
-      {/* Reasons section */}
+   
       <div ref={whyRef} className="relative h-1/2 bg-pink-800 flex flex-col items-center px-60 py-8">
         <h1 className="text-4xl font-bold text-white mb-8 mt-12">Why SheConnects?</h1>
         <div className="flex w-full justify-between"  data-aos="fade-bottom">
